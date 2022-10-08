@@ -1,0 +1,318 @@
+h1{
+    color:  white;
+    font-family: serif;
+}
+h3{
+    color: white;
+    font-size: 26;
+}
+h2{
+    color: white;
+    font-family: crimson;
+}
+
+#MainName
+{
+    background-color: black;
+ border: white 2px solid;
+    padding-top: 40px;
+    
+    
+    
+}
+#cajita
+{
+    background-color: black;
+ border: white 2px solid;
+    padding-right: 0px;
+}
+.logo-img{
+    width: 150px;
+    margin: 20px;
+   
+}
+#Nav
+{
+    background-color: limegreen;
+ border: white 2px solid;
+    padding: 10px;
+}
+ #nav{
+        color: white;
+        font-size: 28px;
+     font-family: serif
+    }
+#rpgImage
+{
+   background-color: black;
+ border: white 2px solid; 
+  
+   padding: 20px;
+    padding-left: 200px;
+    
+    
+    
+}
+#rpgImage2
+{
+    
+   
+ border: white 2px solid; 
+   border-radius: 8px;
+    width: 700px;
+    
+    
+    
+}
+#TextBox{
+     background-color: black;
+ border: white 2px solid;
+    padding: 20px;
+}
+#greenTextBox
+{
+    border: white 2px solid;
+    background-color: greenyellow;
+    padding: 14px;
+   
+    
+    
+}
+#greenImgBox{
+     border: white 2px solid;
+    background-color: greenyellow;
+    padding: 14px;
+    padding-left: 150px;
+    margin-top: 46px
+}
+p
+{
+    color: white;
+    font-size: 26px;
+    font-family: crimson;
+}
+
+.PortImg{
+   width: 400px;
+   
+}
+
+
+
+@media (max-width:992px)
+{    
+    #greenImgBox{
+     border: white 2px solid;
+    background-color: greenyellow;
+    padding: 14px;
+    
+    margin-top: 30px
+}
+     #MainName{
+        padding-top: 19px;
+    }
+    #rpgImage
+ {
+   background-color: black;
+ 
+   
+     padding-left: 100px;
+   
+    
+    
+    
+  }
+    #rpgImage2{
+        width: 500px;
+    }
+    #cajita{
+        padding: 20px;
+        padding-left: 40px
+    }
+    .logo-img{
+    width: 150px;
+        margin: 0px;
+        
+}
+    .PortImg{
+   width: 400px;
+   
+}
+    #greeTextbox{
+        margin-top: 20px;
+    }
+   
+    h3{
+        font-size: 4px;
+    }
+    h1{
+        font-size: 7px;
+    }
+    #nav{
+        color: white;
+        font-size: 28px;
+    }
+    #Nav{
+        padding: 5px;
+    }
+    #mainName{
+        font-size: 40px;
+    }
+}
+@media  (max-width:768px)
+{    
+     #MainName{
+        padding-top: 19px;
+    }
+    #rpgImage
+ {
+   background-color: black;
+ 
+   
+     padding-left: 100px;
+   
+    
+    
+    
+  }
+    #rpgImage2{
+        width: 350px;
+    }
+    #cajita{
+        padding: 20px;
+        padding-left: 10px;
+    }
+    .logo-img{
+    width: 150px;
+        margin: 0px;
+        
+}
+    .PortImg{
+   width: 400px;
+   
+}
+    #greeTextbox{
+        margin-top: 20px;
+    }
+   
+    h3{
+        font-size: 4px;
+    }
+    h1{
+        font-size: 7px;
+    }
+    #nav{
+        color: white;
+        font-size: 28px;
+    }
+    #Nav{
+        padding: 5px;
+    }
+    #mainName{
+        font-size: 40px;
+    }
+}
+@media	(max-width:	576px)
+{    
+    #MainName{
+        padding-top: 19px;
+    }
+    #rpgImage
+ {
+   background-color: black;
+ 
+   
+     padding-left: 40px;
+   
+    
+    
+    
+  }
+    #rpgImage2{
+        width: 300px;
+    }
+    #cajita{
+        padding: 0px;
+    }
+    .logo-img{
+    width: 100px;
+        margin: 0px;
+        
+}
+    .PortImg{
+   width: 280px;
+        margin-left: px;
+       
+   
+}
+   
+    h3{
+        font-size: 4px;
+    }
+    h1{
+        font-size: 7px;
+    }
+    #nav{
+        color: white;
+        font-size: 18px;
+    }
+    #Nav{
+        padding: 5px;
+    }
+    #mainName{
+        font-size: 20px;
+    }
+}
+@media	(max-width:	300px)
+{    
+    #MainName{
+        padding-top: 19px;
+    }
+    #rpgImage
+ {
+   background-color: black;
+ 
+   
+     padding-left: 30px;
+   
+    
+    
+    
+  }
+    #rpgImage2{
+        width: 210px;
+    }
+    #cajita{
+        padding: 0px;
+    }
+    .logo-img{
+    width: 85px;
+        margin: 0px;
+        margin-top: 11px;
+        
+}
+    .PortImg{
+   width: 190px;
+   
+}
+   
+    h3{
+        font-size: 4px;
+    }
+    h1{
+        font-size: 7px;
+    }
+    #nav{
+        color: white;
+        font-size: 13px;
+    }
+    #Nav{
+        padding: 5px;
+    }
+    #mainName{
+        font-size: 20px;
+    }
+}
+
+
+
